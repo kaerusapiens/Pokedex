@@ -1,0 +1,13 @@
+__pycache__
+
+test/
+
+terraform/terraform.tfvars
+terraform/terraform.tfstate
+terraform/terraform.tfstate.backup
+terraform/.terraform
+terraform/.terraform.lock.hcl
+
+app/config.yaml
+app/app.zip
+app/pokedex_venv

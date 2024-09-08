@@ -46,7 +46,7 @@ generationをパラメーターに入れれば、
 # 🪲開発バグ解決備忘録
 
 
-https://www.notion.so/kaerusapiens/GCP-d38b24cf489048cc95ae39df842644d0?pvs=4#f3fba7fde93f4c4295795dc06682685e
+https://kaerusapiens.notion.site/GCP-d38b24cf489048cc95ae39df842644d0#f3fba7fde93f4c4295795dc06682685e
 
 
 

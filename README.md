@@ -23,7 +23,21 @@
 generationをパラメーターに入れれば、
 その世代のポケモンがデータベース上に上がってくる
 
-例
+
+
+# 🐣使用方法
+1. terraform構成開始　
+
+`terraform init`
+
+`terraform plan`
+
+`terraform validate`
+
+`terrafrom apply`
+
+2. APIコールしてみる
+
 `curl -H "Authorization: Bearer $(gcloud auth print-identity-token)" https://{GFC_URL}?generation=2`
 
 
